@@ -1,0 +1,14 @@
+{
+  "name": "portainer-deploy",
+  "version": "1.0.0",
+  "description": "Script to deploy Portainer using Docker Compose",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
